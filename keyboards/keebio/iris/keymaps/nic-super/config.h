@@ -38,19 +38,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 
+#define MOUSEKEY_TIME_TO_MAX 10
 
-#define MK_C_OFFSET_SLOW     1 // pixels
-#define MK_C_INTERVAL_SLOW 100 // milliseconds
-#define MK_C_OFFSET_MED      4
-#define MK_C_INTERVAL_MED   16
-#define MK_C_OFFSET_FAST    12
-#define MK_C_INTERVAL_FAST  16
+//#define MK_C_OFFSET_SLOW     1 // pixels
+//#define MK_C_INTERVAL_SLOW 100 // milliseconds
+//#define MK_C_OFFSET_MED      4
+//#define MK_C_INTERVAL_MED   16
+//#define MK_C_OFFSET_FAST    12
+//#define MK_C_INTERVAL_FAST  16
 
-#define MK_W_OFFSET_SLOW     1 // wheel clicks
-#define MK_W_INTERVAL_SLOW 400 // milliseconds
-#define MK_W_OFFSET_MED      1
-#define MK_W_INTERVAL_MED  200
-#define MK_W_OFFSET_FAST     1
-#define MK_W_INTERVAL_FAST 100
+//#define MK_W_OFFSET_SLOW     1 // wheel clicks
+//#define MK_W_INTERVAL_SLOW 400 // milliseconds
+//#define MK_W_OFFSET_MED      1
+//#define MK_W_INTERVAL_MED  200
+//#define MK_W_OFFSET_FAST     1
+//#define MK_W_INTERVAL_FAST 100
 
 #endif
